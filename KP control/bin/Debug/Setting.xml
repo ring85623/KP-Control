@@ -1,0 +1,14 @@
+<sections>
+  <!--環境內容設定-->
+  <EnvironmentOption name="環境設定">
+    <item name="KeyDelay" value="100" />
+    <item name="MouseClkDelay" value="10" />
+    <item name="MouseMovDelay" value="10" />
+    <item name="Repeat" value="1" />
+    <item name="RepeatDelay" value="1000" />
+    <item name="RowColorA" value="ffffff80" />
+    <item name="RowColorB" value="ff80ff80" />
+    <item name="RowSelectColor" value="ffd5dafb" />
+    <item name="RowBackColor" value="ffffd0d0" />
+  </EnvironmentOption>
+</sections>
